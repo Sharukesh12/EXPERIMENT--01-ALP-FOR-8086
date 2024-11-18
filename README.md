@@ -1,6 +1,6 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name : JESHWANTH R
-Roll no : 2305003003
+Name : SHARUKESH T
+Roll no : 2305002022
 Date of experiment : 27.10.2021
 
 
